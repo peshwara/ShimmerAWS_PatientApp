@@ -219,7 +219,7 @@ public class RegisterUser extends AppCompatActivity {
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
                 if (s.length() == 0) {
                     TextView label = (TextView) findViewById(R.id.textViewRegPhoneLabel);
-                    label.setText(phone.getHint() + " with country code and no seperators");
+                    label.setText(phone.getHint() + " with country code and no separators");
                     phone.setBackground(getDrawable(R.drawable.text_border_selector));
                 }
             }

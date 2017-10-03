@@ -1,186 +1,190 @@
 [
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ecg_chest.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\ecg_chest.png"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.png",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\checked.png"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_selected.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\text_border_selected.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_selector.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\check_box_selector.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\Users\\poorn\\.android\\build-cache\\1b89c03b312b33333b7a0434c4336bb26016b2d1\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_success.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\button_success.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eye.png",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\eye.png"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_error.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\text_border_error.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\add.png"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\button_pressed.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selected.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\button_selected.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_black.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\ic_menu_black.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sync.png",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\sync.png"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\not_checked.png",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\not_checked.png"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\1b89c03b312b33333b7a0434c4336bb26016b2d1\\output\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_circle_white1.png",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\ic_account_circle_white1.png"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cancel_black.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\ic_cancel_black.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_default.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\text_border_default.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_circle_white1.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\ic_account_circle_white1.png"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_selector.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\text_border_selector.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\not_checked.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\not_checked.png"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_selector.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\check_box_selector.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_selected.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\text_border_selected.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_default.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\button_default.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_default.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\button_default.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selected.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\button_selected.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_circle_white.png",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\ic_account_circle_white.png"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
-        "source": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\src\\main\\res\\drawable\\button_selector.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_error.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\text_border_error.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eye.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\eye.png"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_cancel_black.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\ic_cancel_black.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\1b89c03b312b33333b7a0434c4336bb26016b2d1\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_selector.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\text_border_selector.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_success.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\button_success.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sync.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\sync.png"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_border_default.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\text_border_default.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_black.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\ic_menu_black.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checked.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\checked.png"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_account_circle_white.png",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\ic_account_circle_white.png"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "D:\\backup\\ShimmerAWS_PatientApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     }
 ]

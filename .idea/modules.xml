@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AmazonCognitoYourUserPoolsDemo.iml" filepath="$PROJECT_DIR$/AmazonCognitoYourUserPoolsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShimmerAWS_PatientApp.iml" filepath="$PROJECT_DIR$/ShimmerAWS_PatientApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiShimmerTemplate/multiShimmerTemplate.iml" filepath="$PROJECT_DIR$/multiShimmerTemplate/multiShimmerTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shimmerAndroidInstrumentDriver/shimmerAndroidInstrumentDriver.iml" filepath="$PROJECT_DIR$/shimmerAndroidInstrumentDriver/shimmerAndroidInstrumentDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shimmerDriver/shimmerDriver.iml" filepath="$PROJECT_DIR$/shimmerDriver/shimmerDriver.iml" />
     </modules>
   </component>
 </project>

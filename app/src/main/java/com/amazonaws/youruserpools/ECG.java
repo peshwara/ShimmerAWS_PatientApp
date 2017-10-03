@@ -1,5 +1,6 @@
 package com.amazonaws.youruserpools;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.os.Environment;
 import android.support.design.widget.FloatingActionButton;
@@ -26,21 +27,27 @@ public class ECG extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        final Button bsend = (Button) findViewById(R.id.bSend);
-        final Button bIn = (Button) findViewById(R.id.bIn);
+        //final Button bsend = (Button) findViewById(R.id.bSend);
+        final Button bsend = (Button) findViewById(R.id.sendECG);
 
 
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+        //FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
 
-        bIn.setOnClickListener(new View.OnClickListener() {
+        bsend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Sending the data to AWS", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "opening Shimmer app", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
+                Intent launchIntent = getPackageManager().getLaunchIntentForPackage("com.shimmerresearch.multishimmertemplate");
+                if (launchIntent != null) {
+                    startActivity(launchIntent);//null pointer check in case package name was not found
+                }
+
+
 
             }});
-                bsend.setOnClickListener(new View.OnClickListener() {
+                /*bsend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Snackbar.make(view, "Sending the data to AWS", Snackbar.LENGTH_LONG)
@@ -53,12 +60,12 @@ public class ECG extends AppCompatActivity {
                 );
 
 
-               /* String kinesisDirectory = Environment.getExternalStorageDirectory().getAbsolutePath()+ "/ECG";
+               *//* String kinesisDirectory = Environment.getExternalStorageDirectory().getAbsolutePath()+ "/ECG";
 
-                File dir = getDir(kinesisDirectory, 0);*/
+                File dir = getDir(kinesisDirectory, 0);*//*
 
 
-              /*  KinesisRecorder recorder = new KinesisRecorder(
+              *//*  KinesisRecorder recorder = new KinesisRecorder(
                         dir,
                         Regions.US_EAST_1,
                         credentialsProvider
@@ -66,10 +73,10 @@ public class ECG extends AppCompatActivity {
 
 
                 recorder.saveRecord("MyData".getBytes(),"ECGStream");
-                recorder.submitAllRecords();*/
+                recorder.submitAllRecords();*//*
 
             }
-        });
+        });*/
     }
 
 }

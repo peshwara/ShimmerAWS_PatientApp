@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,34 +8,74 @@
     tools:context="com.amazonaws.youruserpools.ECG"
     tools:showIn="@layout/activity_ecg">
 
-    <RelativeLayout
-        android:layout_width="376dp"
-        android:layout_height="444dp"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="3dp"
-        tools:ignore="MissingConstraints">
 
-        <Button
-            android:id="@+id/bSend"
-            android:layout_width="wrap_content"
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:text="Attach sensors to the subject as shown in the picture below.\nYou can also click on the image for more information"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:includeFontPadding="true"
+        android:textAlignment="gravity"
+        />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        app:srcCompat="@drawable/ecg_chest" />
+
+    <Button
+        android:id="@+id/sendECG"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Click here to connect to Shimmer" />
+    <TextView
+        android:id="@+id/QuoteHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sendECG"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:text="Quote of the Day"
+        android:textStyle="italic"
+        android:textSize="30dp"
+        android:includeFontPadding="true"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/QuoteHeading"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp">
+
+        <TextView
+            android:id="@+id/quote"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Send ECG to cloud"
-            tools:layout_editor_absoluteX="198dp"
-            tools:layout_editor_absoluteY="447dp"
-            android:layout_alignParentBottom="true"
-            android:layout_toEndOf="@+id/bIn"
-            android:layout_marginStart="16dp"
-            android:layout_marginBottom="12dp" />
+            android:text="A wise man should consider that health is the greatest of human blessings, and learn how by his thought to derive benefit from his illnesses.\n- Hippocrates"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:textStyle="italic"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            />
+    </ScrollView>
 
-        <Button
-            android:id="@+id/bIn"
-            android:layout_width="171dp"
-            android:layout_height="50dp"
-            android:text="Start Streaming in "
-            tools:layout_editor_absoluteX="16dp"
-            tools:layout_editor_absoluteY="445dp"
-            android:layout_alignTop="@+id/bSend"
-            android:layout_alignParentStart="true" />
-    </RelativeLayout>
 
-</android.support.constraint.ConstraintLayout>
+
+
+</RelativeLayout>

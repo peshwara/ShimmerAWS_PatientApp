@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "D:\\SFSU\\Sem3\\895\\EKG\\Android\\AmazonCognitoYourUserPoolsDemo\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "D:\\backup\\ShimmerAWS_PatientApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\poorn\\.android\\build-cache\\cf17c31eda88e7a872cad603281ca54da1c81028\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]
